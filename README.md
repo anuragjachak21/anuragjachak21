@@ -33,13 +33,11 @@
 
 ###
 
-<br clear="both">
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"  />
+</div>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragjachak21/anuragjachak21/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuragjachak21/anuragjachak21/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anuragjachak21/anuragjachak21/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+
 
 ###
 
@@ -103,8 +101,4 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"  />
-</div>
 
-###
