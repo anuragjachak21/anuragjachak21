@@ -1,450 +1,118 @@
-
-````markdown
-<!-- ======================= HERO ======================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ANURAG%20JACHAK&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20SOFTWARE%20BUILDER&descAlignY=58&descSize=18&color=0:0f0c29,50:302b63,100:24243e"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+ANURAG+JACHAK+%F0%9F%91%8B;I+Build+Real-World+Software+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+JavaScript+%7C+C%2FC%2B%2B;Cloud+%7C+Linux+%7C+Databases;Turning+Ideas+Into+Reality+%E2%9A%A1" />
-
-<br><br>
-
-<a href="https://github.com/anuragjachak21">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/anu.x.21_">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:jachakanurag@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=anuragjachak21&style=for-the-badge&color=00F7FF&label=PROFILE+VISITORS"/>
-
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
----
+###
 
-<!-- ======================= ABOUT ======================= -->
-
-<div align="center">
-
-# 🧬 WHO AM I?
-
+<div data-importer="image" align="center">
+  <img data-importer="image" height="300" src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODgwMjExODQsIm5iZiI6MTc4ODAyMDg4NCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODI5VDE2MjgwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVjMzA2MmVhN2JhNTkyNDU5YTcxZWUxNTM0YzU3ZmNjZDQ5NDZkZTIyMTI3OGRiMjg5MmU3ZWQ3NDdlMmQ3ZmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.fASfbKxQ8I4g_P6yLcVsldigBlRTB6uJgDu5G6nGIXo"  />
 </div>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   👨‍💻  ANURAG JACHAK                                        ║
-║                                                              ║
-║   > Developer                                                ║
-║   > Builder                                                  ║
-║   > Problem Solver                                           ║
-║   > Technology Enthusiast                                    ║
-║                                                              ║
-║   I enjoy turning ideas into real-world applications.       ║
-║                                                              ║
-║   💻 Full-Stack Development                                  ║
-║   🤖 AI-powered Applications                                 ║
-║   🗄️ Database Systems                                        ║
-║   ☁️ Cloud Computing                                         ║
-║   🐧 Linux & Development Tools                               ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-````
+###
 
----
+<br clear="both">
 
-<!-- ======================= CURRENTLY ======================= -->
-
-<div align="center">
-
-# ⚡ CURRENTLY IN MY WORKSPACE
-
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/anurag-jachak-099701306/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/anu.x.21_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://open.spotify.com/user/31rizudqhi4fsskro5rid5pgtmfi?si=3wquGTKZS3-JA9MY3cd1Ew&utm_source=copy-link" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
+  </a>
+  <a href="jachakanurag@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
-<table align="center">
-<tr>
-<td width="50%">
+###
 
-### 🔭 BUILDING
+<h1 data-importer="text" align="center">< ANURAG JACHAK /></h1>
 
-* 🌐 Full-Stack Web Applications
-* 🤖 AI-powered Applications
-* 💼 Career & Productivity Tools
-* 🗄️ Database Projects
+###
 
-</td>
+<h3 data-importer="text" align="center">ABOUT MYSELF</h3>
 
-<td width="50%">
+###
 
-### 🌱 LEARNING
+<p data-importer="text" align="left">ANURAG JACHAK<br>Software Developer | Web Developer | Technology Enthusiast<br><br><br>I’m a passionate developer focused on building **modern, scalable, and user-friendly software applications**. I enjoy transforming ideas into practical digital solutions and continuously improving my skills through hands-on projects.<br><br> What I Do<br><br>* 💻 Develop responsive and interactive web applications<br>* 🌐 Build modern frontend experiences<br>* ⚙️ Develop backend applications and APIs<br>* 🤖 Explore AI and emerging technologies<br>* 🗄️ Work with databases and SQL<br>* 🐧 Explore Linux, Docker, and development tools<br>* 🔧 Build, test, debug, and continuously improve software<br><br>Technical Skills<br><br>Languages<br>C , C++ , Python , Java , JavaScript , SQL<br><br>Web & Backend<br>HTML , CSS , Bootstrap , Django , Flask<br><br>Tools & Technologies<br>Git , GitHub , Linux , Docker , Podman<br><br>CURRENTLY<br><br>* 📚 Strengthening my software development fundamentals<br>* 🚀 Building real-world projects<br>* 🤖 Exploring AI-powered applications<br>* 🌱 Continuously learning new technologies<br>* 🤝 Open to collaboration and interesting projects</p>
 
-* ☁️ Cloud Computing
-* 🐧 Linux
-* 🧩 System Design
-* ⚙️ Backend Development
-* 🚀 Advanced JavaScript
+###
 
-</td>
-</tr>
-</table>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragjachak21/anuragjachak21/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuragjachak21/anuragjachak21/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anuragjachak21/anuragjachak21/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
----
+###
 
-<!-- ======================= SKILLS ======================= -->
+<h3 data-importer="text" align="center">Language and tools</h3>
 
-<div align="center">
+###
 
-# 🛠️ MY DIGITAL ARSENAL
-
-### 👨‍💻 PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
-
-<br><br>
-
-### 🌐 WEB & BACKEND
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,django,flask" />
-
-<br><br>
-
-### 🗄️ DATABASES
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-<br><br>
-
-### ⚙️ TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
-
-<br><br>
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
----
+###
 
-<!-- ======================= PROJECTS ======================= -->
+<h3 data-importer="text" align="center">STATS</h3>
 
-<div align="center">
+###
 
-# 🚀 FEATURED PROJECTS
-
-### ⚡ Things I've Built & Things I'm Building
-
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=anuragjachak21&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<table align="center">
+###
 
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🤖 AI RESUME BUILDER</h3>
-
-<p align="center">
-AI-focused application designed to help users create and improve professional resumes.
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Web-4285F4?style=flat-square"/>
-
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">💰 EXPENSE TRACKER</h3>
-
-<p align="center">
-A practical application for tracking, organizing and managing personal expenses.
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">💼 STARTHIRE</h3>
-
-<p align="center">
-A job and startup platform concept connecting candidates, employers and opportunities.
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">☕ CAFE MANAGEMENT SYSTEM</h3>
-
-<p align="center">
-Database management project designed to handle cafe operations and records.
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<!-- ======================= GITHUB STATS ======================= -->
-
-<div align="center">
-
-# 📊 GITHUB COMMAND CENTER
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=anuragjachak21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragjachak21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=anuragjachak21&theme=tokyonight&hide_border=true"/>
-
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"  />
 </div>
 
----
-
-<!-- ======================= ACTIVITY ======================= -->
-
-<div align="center">
-
-# 📈 CONTRIBUTION MATRIX
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragjachak21&bg_color=0d1117&color=00f7ff&line=7c3aed&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
-<!-- ======================= TROPHIES ======================= -->
-
-<div align="center">
-
-# 🏆 ACHIEVEMENTS
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=anuragjachak21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
-
-</div>
-
----
-
-<!-- ======================= LEARNING ======================= -->
-
-<div align="center">
-
-# 🧠 LEARNING PROTOCOL
-
-</div>
-
-<table align="center">
-
-<tr>
-<th>TECHNOLOGY</th>
-<th>STATUS</th>
-</tr>
-
-<tr>
-<td>🐍 Python / Django</td>
-<td>██████████████████░░ 90%</td>
-</tr>
-
-<tr>
-<td>🌐 Web Development</td>
-<td>███████████████████░ 95%</td>
-</tr>
-
-<tr>
-<td>🗄️ SQL / Databases</td>
-<td>█████████████████░░░ 85%</td>
-</tr>
-
-<tr>
-<td>☕ Java / C / C++</td>
-<td>████████████████░░░░ 80%</td>
-</tr>
-
-<tr>
-<td>☁️ Cloud Computing</td>
-<td>█████████████░░░░░░░ 65%</td>
-</tr>
-
-<tr>
-<td>🐧 Linux / DevOps</td>
-<td>████████████░░░░░░░░ 60%</td>
-</tr>
-
-<tr>
-<td>🧩 System Design</td>
-<td>██████████░░░░░░░░░░ 50%</td>
-</tr>
-
-</table>
-
----
-
-<!-- ======================= GOALS ======================= -->
-
-<div align="center">
-
-# 🎯 2026 MISSION
-
-</div>
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  🚀 Build more real-world applications                     │
-│                                                             │
-│  💻 Become stronger in Full-Stack Development               │
-│                                                             │
-│  ☁️ Deepen Cloud Computing knowledge                        │
-│                                                             │
-│  🐧 Master Linux & DevOps fundamentals                       │
-│                                                             │
-│  🧩 Learn System Design                                     │
-│                                                             │
-│  🤝 Contribute to Open Source                               │
-│                                                             │
-│  🌍 Build software that creates real impact                 │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-<!-- ======================= PHILOSOPHY ======================= -->
-
-<div align="center">
-
-# 💡 DEVELOPER PHILOSOPHY
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+FIX+%E2%86%92+IMPROVE;Every+bug+is+a+lesson.;Every+project+is+a+step+forward.;Code.+Create.+Repeat.+%F0%9F%94%A5"/>
-
-<br><br>
-
-> **"Don't just learn technology. Build something with it."**
-
-</div>
-
----
-
-<!-- ======================= FUN FACT ======================= -->
-
-<div align="center">
-
-# ⚡ BEYOND THE CODE
-
-<br>
-
-```text
-💻 Coding        → Building
-🧠 Learning      → Growing
-💡 Ideas         → Projects
-🐛 Bugs          → Lessons
-🚀 Projects      → Experience
-```
-
-</div>
-
----
-
-<!-- ======================= CONNECT ======================= -->
-
-<div align="center">
-
-# 🌐 LET'S CONNECT
-
-<br>
-
-<a href="https://github.com/anuragjachak21">
-<img src="https://img.shields.io/badge/GitHub-ANURAG%20JACHAK-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://instagram.com/anu.x.21_">
-<img src="https://img.shields.io/badge/Instagram-anu.x.21_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:jachakanurag@gmail.com">
-<img src="https://img.shields.io/badge/Email-CONTACT%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<!-- ======================= FOOTER ======================= -->
-
-<div align="center">
-
-<br>
-
-### ⚡ CODE • CREATE • INNOVATE • REPEAT ⚡
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=anuragjachak21&label=PROFILE+VIEWS&color=7c3aed&style=flat-square"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
-
-</div>
-```
-
+###
